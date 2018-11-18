@@ -2,6 +2,8 @@
 
 *My process of learning git*
 
+Website preview : https://krzysztofhejna.github.io/learning-git3/
+
 ## Getting started    
 
 This is where the instuctions to get a copy of the project up and running on your local machine would normally be.
