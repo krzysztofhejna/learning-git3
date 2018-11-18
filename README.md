@@ -4,11 +4,11 @@
 
 ## Getting started    
 
-*This is where the instuctions to get a copy of the project up and running on your local machine would normally be.*
+This is where the instuctions to get a copy of the project up and running on your local machine would normally be.
 
 ### Prerequisites
 
-*Software you need to install to get the project up and running*
+Software you need to install to get the project up and running
 
 ### Installation
 
