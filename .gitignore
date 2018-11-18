@@ -1,4 +1,5 @@
-style.css.map
-.sass-cache
+# All map files
+*.map
 
-.sass/style.css.map
+# Sass cache folder
+.sass-cache
