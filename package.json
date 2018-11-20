@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/krzysztofhejna/learning-git3#readme",
   "devDependencies": {
-    "browser-sync": "^2.26.3"
+    "autoprefixer-cli": "^1.0.0",
+    "browser-sync": "^2.26.3",
+    "nu-html-checker": "^0.1.0"
   }
 }
